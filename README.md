@@ -1,0 +1,2 @@
+ - Uses “Google Maps API” to search for different locations.
+ - It also shows current user location automatically
